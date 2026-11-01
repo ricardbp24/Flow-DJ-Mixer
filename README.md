@@ -50,7 +50,7 @@ Mezcla dos pistas con **EQ isolator de 3 bandas**, **crossfader de potencia cons
 
 ## 🔌 Enrutado en FL Studio
 
-![Enrutado en FL Studio](docs/routing.png)
+![Enrutado en FL Studio](routing.png)
 
 1. Envía la **pista A** a un insert del mixer (por ejemplo, el insert **1**) y la **pista B** a otro (por ejemplo, el insert **2**).
 2. Carga **Flow DJ Dual Mixer** en el insert **1**, que será el Deck A.
@@ -89,7 +89,7 @@ El anillo blanco interior de cada perilla muestra el valor que está sonando de 
 
 ### AUTO MIX
 
-![AUTO MIX en plena transición](docs/automix.png)
+![AUTO MIX en plena transición](automix.png)
 
 *AUTO MIX de A a B al 44%: los graves se están intercambiando y el crossfader avanza solo.*
 
