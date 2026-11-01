@@ -7,7 +7,7 @@ Mezcla dos pistas con **EQ isolator de 3 bandas**, **crossfader de potencia cons
 ![Formato](https://img.shields.io/badge/formato-VST3-orange)
 ![DAW](https://img.shields.io/badge/probado%20en-FL%20Studio-ff7a00)
 
-![Flow DJ Dual Mixer](docs/screenshot.png)
+![Flow DJ Dual Mixer](screenshot.png)
 
 > Interfaz basada en el diseño *DJ Equalizer Mixer* creado en Flow Music.
 
